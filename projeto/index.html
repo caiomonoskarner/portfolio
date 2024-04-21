@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <header>
+        <div class="center">
+            <img src="img/download.png"></img>
+        </div>
+        <h1>Caio Nascimento Saraiva</h1>
+        <h2>Estudande de Ciencia da Computaçao</h2>
+    </header>
+    <main>
+        <section>
+            <h3>
+                Sobre mim
+            </h3>
+            <p>
+                Nasci no dia 04/11/2005 em Vila Velha, tenho 2 irmãos e sou o mais novo entre eles, comecei a fazer inglês esse ano
+                em todo final de ano eu viajo para o interior do Rio para visitar meus parentes por parte de pai.
+                passo meu tempo jogando videogame, lendo e estudando. <br>
+                E eu zerei Dark souls 1 e 2 e estou jogando o 3
+            </p>
+            <h3>
+                Experiências
+            </h3>
+            <p>
+                Termiei o ensino medio <br>
+                Trabalhei por um mês em uma papelaria colocando caderno na prateleira <br>
+                e Joguei Basket por alguns anos no Cetaf
+            </p>
+             <h3>
+                Tecnologias que domina
+            </h3>
+            <p>
+                Até agora eu sei css, <br> html e um pouco de linguagem C
+            </p>
+            <h3>
+                 Contatos
+            </h3>
+            <li>
+                telefone: (+55)27 99842-1564
+            </li>
+            <li>
+            Email: caionascimentosaraiva@gmail.com
+            </li>
+            <li>
+                <a href="https://github.com/caiomonoskarner">github</a>
+            </li>
+        </section>
+    </main>
+</body>
+</html>
